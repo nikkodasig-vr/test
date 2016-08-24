@@ -5,5 +5,6 @@
 </head>
 <body>
 	<header>This is the header.</header>
+	<footer>Copyright 2016</footer>
 </body>
 </html>
